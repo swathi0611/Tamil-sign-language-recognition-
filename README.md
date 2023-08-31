@@ -1,1 +1,4 @@
-# Tamil-sign-language-recognition-
+# Tamil-sign-language-recognition
+
+The objective of Tamil Sign Language recognition is to develop technology that can recognize and interpret sign language gestures used by individuals who are deaf or hard of hearing and who use Tamil Sign Language as their primary mode of communication. The goal is to create systems and software that can accurately and efficiently recognize the various hand gestures, facial expressions, and body movements used in Tamil Sign Language, and translate them into spoken or written language.
+Tamil Sign Language recognition has several potential benefits, including making communication more accessible for deaf or hard of hearing individuals, allowing them to more easily interact with technology, and improving their ability to participate in various aspects of daily life. It can also help to bridge the communication gap between deaf or hard of hearing individuals and those who do not understand sign language
